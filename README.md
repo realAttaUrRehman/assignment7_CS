@@ -1,7 +1,7 @@
 # Getting started
 
 Simple calculator API hosted on APIMATIC
-
+Simple calculator API hosted on APIMATIC
 ## How to Build
 
 The generated code uses the Newtonsoft Json.NET NuGet Package. If the automatic NuGet package restore
