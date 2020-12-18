@@ -8,7 +8,7 @@ The generated code uses the Newtonsoft Json.NET NuGet Package. If the automatic 
 is enabled, these dependencies will be installed automatically. Therefore,
 you will need internet access for build.
 
-"This library requires Visual Studio 2017 for compilation."
+"This library requires Visual Studio 2017 for compilation......"
 1. Open the solution (APIMATICCalculator.sln) file.
 2. Invoke the build process using `Ctrl+Shift+B` shortcut key or using the `Build` menu as shown below.
 
